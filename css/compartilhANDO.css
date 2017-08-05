@@ -1,0 +1,21 @@
+.navbar-custom {
+  background: #488AC7;
+ }
+ header {
+  text-align: center;
+  background: #9AFEFF;
+  color: #488AC7;
+}
+#corjornada{
+	color:#488AC7;}
+#margembotao {
+margin-top:150px;
+background-color:black;
+}
+#corbotao{
+	background-color:black;
+}
+#imagemback {
+  background-image: url("http://sjfcama.com/wp-content/uploads/2016/11/how-b2b-social-media-marketing-differs-across-the-world.png");
+  background-repeat: no-repeat;
+}
